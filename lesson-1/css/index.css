@@ -1,0 +1,21 @@
+div {
+  color: orange;
+}
+
+span {
+  display: block;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+img {
+  width: 200px;
+  display: block;
+}
+
+.text {
+  color: blue;
+}
+#text-block {
+  color: blueviolet;
+}
